@@ -1,3 +1,3 @@
 # LoanApprovalSystem
 
-Excited? ....try this app using this link: https://loanapprovalsystem-7uznqorzskjq9yqthsmymv.streamlit.app/
+Excited? ....try the app using this link : https://loanapprovalsystem-7uznqorzskjq9yqthsmymv.streamlit.app/
